@@ -1,0 +1,31 @@
+div {
+    background: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+div {
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+
+    border-radius: 4px;
+
+    border: 3px solid lightblue;
+}
+
+body {
+    background-color: black;
+}
+
+input {
+    margin: 5px;
+    padding: 6px 9px;
+    border: none;
+    border-bottom: 1px solid greenyellow;
+    border-left: 1px solid greenyellow;
+    background: transparent; 
+    color: greenyellow;
+    border-radius: 5px;
+}

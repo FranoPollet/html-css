@@ -1,0 +1,31 @@
+body {
+    background-color: #48e;
+    margin: 0;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.box {
+    width: 100%px;
+    height: 100px;
+    margin: 0;
+    background-color: #f3ef;
+    background-image: url(https://imgs.search.brave.com/aGc4gl3BpoSTOvlizyzD4gQnJ4aR8VzdrJyQ0uPx4yI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzE4LzY0LzA2/LzM2MF9GXzYxODY0/MDYyNV8wMEVnYlhJ/bE1McHR2MHM4SUow/cWNBZUJPM1RjMndI/dS5qcGc);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    background: url(https://imgs.search.brave.com/aGc4gl3BpoSTOvlizyzD4gQnJ4aR8VzdrJyQ0uPx4yI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzE4LzY0LzA2/LzM2MF9GXzYxODY0/MDYyNV8wMEVnYlhJ/bE1McHR2MHM4SUow/cWNBZUJPM1RjMndI/dS5qcGc) center / cover fixed #6fa;
+}
+
+.opaco {
+    width: 100%;
+    height: 100%;
+    background-color: #000a;
+}
+
+h2 {
+    text-align: center;
+    padding: 30px;
+}
